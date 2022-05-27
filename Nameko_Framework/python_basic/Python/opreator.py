@@ -1,0 +1,7 @@
+#Arithmetic Operator [+,-,*,/,%,**,//]
+#Assignment Operator [=,+=,-=,*=,/=,%=,//=,**=,&=,|=,^=,>>=,<<=]
+#Comparision Operator [==,!=,>,<,>=,<=]
+#Logical Operator[And,Or,Not]
+#Identity Operator[is,is not]
+#Membership Opeartor[in,not in]
+#Bitwise Operator[&,|,^,~,<<,>>]
